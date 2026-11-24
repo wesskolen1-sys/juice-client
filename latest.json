@@ -1,6 +1,6 @@
 {
-  "version": "4.5.2",
-  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/89764055dab369ba439811dfec54cad9cc14c7ef/releases/JuiceClientSetup-4.5.2.exe",
-  "sha256": "d426567d4e27118b8b3727c0033608e1807a39cc4ce5768be599a213980e5ebf",
-  "notes": "Cleaner rounded pictures in chat\nJuice mods + Fabric API are required and locked\nImported modpacks get the Juice mods automatically"
+  "version": "4.5.3",
+  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/012895ccc0b156f6f00ec001f97f215a4b3d53d9/releases/JuiceClientSetup-4.5.3.exe",
+  "sha256": "623f9b65127dfc1b4451c10bfa0c53a7cd632f9f6c8e2632b1745054c55164de",
+  "notes": "New Allocated Memory setting\nPer-instance memory override\nShows how much RAM you have free"
 }
