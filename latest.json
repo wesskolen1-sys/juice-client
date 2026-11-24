@@ -1,6 +1,6 @@
 {
-  "version": "4.5.4",
-  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/897d2b7a686ac859fabc01e43b8e719c12ede37f/releases/JuiceClientSetup-4.5.4.exe",
-  "sha256": "2e3f98d1b4b0635eccb7d66b2b3741863054ae286cc42e799b10df759b6e69b9",
-  "notes": "New: Motion Blur module (Right Shift > Visual)\nAllocated Memory setting + per-instance memory"
+  "version": "4.5.5",
+  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/758056b375f37ce84279d07bcdc1b2d33c580bcb/releases/JuiceClientSetup-4.5.5.exe",
+  "sha256": "2f08bd5f5b45376f4af833c7b99dd4b0e035638c23a009c810dcf005a4c2fe8b",
+  "notes": "New Latest News: picture cards grid\nMotion Blur module\nAllocated Memory setting"
 }
