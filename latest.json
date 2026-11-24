@@ -1,6 +1,6 @@
 {
   "version": "4.5.2",
-  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/main/releases/JuiceClientSetup-4.5.2.exe",
+  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/89764055dab369ba439811dfec54cad9cc14c7ef/releases/JuiceClientSetup-4.5.2.exe",
   "sha256": "d426567d4e27118b8b3727c0033608e1807a39cc4ce5768be599a213980e5ebf",
   "notes": "Cleaner rounded pictures in chat\nJuice mods + Fabric API are required and locked\nImported modpacks get the Juice mods automatically"
 }
