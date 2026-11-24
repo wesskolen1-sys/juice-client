@@ -1,6 +1,6 @@
 {
-  "version": "4.6.0",
-  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/eebfff54fc3338a0f740d0746ff05c697b1e4fce/releases/JuiceClientSetup-4.6.0.exe",
-  "sha256": "f52270425945e510e263c2f60f9ebbd81f3bfefb2e023f165f3f2f3b40e4203e",
-  "notes": "Clean new main menu\nPress a key to set keybinds + toggle keys\nFullbright no longer changes near torches\n12 performance mods, kept up to date"
+  "version": "4.6.1",
+  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/d8983a6e78b791b5289936774e7f76d3c5c65b76/releases/JuiceClientSetup-4.6.1.exe",
+  "sha256": "32a3ce84f0eb7f7345217afd68b3dc6c6cfe60c5cf93c039ac7a282e5632c81c",
+  "notes": "Fullbright: light blocks no longer change brightness\nClean main menu, press-a-key keybinds, 12 performance mods"
 }
