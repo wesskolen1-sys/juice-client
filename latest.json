@@ -1,6 +1,6 @@
 {
-  "version": "4.5.3",
-  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/012895ccc0b156f6f00ec001f97f215a4b3d53d9/releases/JuiceClientSetup-4.5.3.exe",
-  "sha256": "623f9b65127dfc1b4451c10bfa0c53a7cd632f9f6c8e2632b1745054c55164de",
-  "notes": "New Allocated Memory setting\nPer-instance memory override\nShows how much RAM you have free"
+  "version": "4.5.4",
+  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/897d2b7a686ac859fabc01e43b8e719c12ede37f/releases/JuiceClientSetup-4.5.4.exe",
+  "sha256": "2e3f98d1b4b0635eccb7d66b2b3741863054ae286cc42e799b10df759b6e69b9",
+  "notes": "New: Motion Blur module (Right Shift > Visual)\nAllocated Memory setting + per-instance memory"
 }
