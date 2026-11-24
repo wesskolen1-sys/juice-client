@@ -1,6 +1,6 @@
 {
-  "version": "4.5.0",
-  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/main/releases/JuiceClientSetup-4.5.0.exe",
-  "sha256": "a51adbef7e19629358701ef3e88a0c8fbaffd0ad4adaff1218c5e487d47c7bdf",
-  "notes": "News carousel with the ZeroVanilla partner banner\nBigger skin on the launch screen\nInstant friend messages, pictures, add friends by name\nAuto-update"
+  "version": "4.5.1",
+  "url": "https://raw.githubusercontent.com/wesskolen1-sys/juice-client/main/releases/JuiceClientSetup-4.5.1.exe",
+  "sha256": "c6a34cf8e8e078eeabd03e186939d0a9c5ad318d5a02c1848cfcf828a213554c",
+  "notes": "Cleaner rounded pictures in chat\nJuice mods + Fabric API are required and locked\nImported modpacks get the Juice mods automatically"
 }
